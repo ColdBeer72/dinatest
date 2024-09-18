@@ -7,3 +7,4 @@ RESPUESTA:
 - He usado **Puppet** recientemente (cuando hacía estas cosas habitualmente no existía todavía nada parecido), así que intentaría integrar alguna herramienta como Puppet o Ansible para facilitar y hacer coherente todo el proceso.
 - Verificar que todo se integra perfectamente con el entorno de DinaHosting (portal, notificaciones...) y que se envía correctamente la información pertinente al cliente y a los servicios de DinaHosting que necesiten conocer el hecho.
 - Comprobar que todo el proceso es escalable, repetible y automatizable.
+- Evaluar los costos y reducirlos en lo posible.
