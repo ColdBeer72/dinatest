@@ -1,7 +1,13 @@
-# Comprobaciones previas
+PREGUNTA:
+
+Necesitamos crear un RAID sobre una máquina que no tiene controladora hardware. Como lo harías? Detalla tu solución, no necesitamos una implementación funcional solo detallar los pasos a seguir.
+
+RESPUESTA:
+
+### Comprobaciones previas
 - Tener al menos dos discos duros, formateados como **básicos**
 - Hacer backup de los datos de usuario o lo que sea necesario
-# Pasos a seguir
+### Pasos a seguir
 RESUMIDAMENTE (además, lo hago de memoria pues no tengo equipos Windows en casa):
 - Ejecutar el programa de particionado de windows
 - En la administración de discos, seleccionar los discos a incluir en el RAID
