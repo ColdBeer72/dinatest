@@ -2,6 +2,7 @@ PREGUNTA:
 > Tengo un site del IIS parado, que pasos seguirías para comprobar el fallo? Detalla el proceso de depuración.
 
 RESPUESTA:
+
 Siempre en función del tipo de error, historial y sospecha, el orden debe variar pero las comprobaciones creo que deberían pasar por:
 1. Verificar el estado del servicio (con la gestión de servicios del propio Windows), comprobando que esté iniciado y con arranque automático
 2. Revisar los logs (normalmente en `C:\inetpub\logs\LogFiles`), buscando especialmente errores 500, 404 o errores de conexión a base de datos.
